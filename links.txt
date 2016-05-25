@@ -1,0 +1,3 @@
+http://www.dominicdube.com/wp-content/uploads/Arduino-uno-Pinout.png
+http://modelrail.otenko.com/arduino/arduino-controller-area-network-can
+http://www.seeedstudio.com/wiki/CAN-BUS_Shield
